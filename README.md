@@ -34,3 +34,7 @@ To run or simulate this project, you will need:
 1. Clone the repository to your local machine:
 ```bash
    git clone [https://github.com/dakshlohchab/spi_loopback.git](https://github.com/dakshlohchab/spi_loopback.git)
+
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
